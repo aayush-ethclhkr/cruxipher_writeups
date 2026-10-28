@@ -8,7 +8,7 @@
 | **Tags** | osint, geolocation, crypto |
 | **Flag format** | `cruXipher{...}` / `cruX{...}` |
 | **Tools used** | Google Maps, Open Location Code library, Python, a UTC offset reference |
-| **Solved by** | 0xjyotirmoy |
+| **Solved by** | piyush |
 
 ---
 
