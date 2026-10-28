@@ -8,7 +8,7 @@
 | **Tags** | web, geolocation, osint, browser |
 | **Flag format** | `cruX{...}` |
 | **Tools used** | Browser DevTools, Google Street View, NASA "Your Name in Landsat", curl, 7-Zip, Python |
-| **Solved by** | 0xjyotirmoy |
+| **Solved by** | piyush |
 
 ---
 
